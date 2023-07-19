@@ -19,7 +19,7 @@ Você terá o prazo de uma semana a partir do momento em que o desafio é enviad
 
 - Analisar a aplicação disponível neste repositório, verificar quais componentes você precisará provisionar;
 - Criar um Dockerfile para esse projeto para conseguirmos subí-la localmente, dividindo em ambientes: DEV, TEST, PROD;
-- Utilizar um docker-compose que sobe a API + banco de dados localmente.
+- Utilizar um docker-compose que sobe a API + banco de dados localmente, dividindo em ambientes: DEV, TEST, PROD;
 - Uma pipeline de integração contínua para essa API utilizando tecnologias como Azure DevOps, TravisCI, Github Actions ou algum outro de sua preferência;
 - Subir a aplicação em um cloud provider (provavelmente você terá que assinar uma conta free tier ou se aproveitar de limites gratuitos oferecidos por cloud providers);
 
