@@ -1,5 +1,3 @@
-# teste-tutor-devops
-
 # FullCycle | Teste para Tutor DevOps
 
 ## Tecnologias e requisitos
